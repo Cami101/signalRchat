@@ -2,8 +2,6 @@
 
 In this sample, we demonstrate how to broadcast messages with SignalR Service and Azure Function in serverless.
 
-Also, much of the code in this repo is copied from the [Azure SignalR Bidirectional Chat Code Sample](https://github.com/aspnet/AzureSignalR-samples/tree/main/samples/DotnetIsolated-BidirectionChat).
-
 ## Prerequisites
 
 * [Azure Function Core Tools](https://learn.microsoft.com/azure/azure-functions/functions-run-local)
